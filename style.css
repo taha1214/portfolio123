@@ -1,0 +1,358 @@
+body{
+    /* background-color: rgb(80, 80, 88);   */
+    overflow-x: hidden;
+    
+    
+}
+.flex{
+    display: flex;
+    margin-left:200px;
+    margin-top: 50px;
+    position: relative;
+    top: 25px;
+}
+ul{
+    display: flex;
+    font-size: 13px;
+    list-style: none;
+    margin-left: 48px;
+
+}
+li{
+    margin-left: 100px;
+    color: lightgray;
+}
+h1{
+    font-size: 30px;
+    position: relative;
+    top: -30px;
+    color: white;
+    display: flex;
+}
+.three{
+    margin-left: 250px;
+    
+}
+.home{
+    color: white;
+}
+.TAHA{
+    position: relative;
+    left: 200px;
+    top: 150px;
+
+}
+.ali{
+   
+    font-size: 100px;
+    position: relative;
+    top: -91px;
+}
+
+.intro{
+    font-size: 50px;
+    color: grey;
+}
+p{
+    
+     font-size: 20px; 
+     height: 50px;
+     width: 280px;
+     color: aliceblue;
+     border-width: 10px;
+     position: relative;
+     top: -108px;
+    }
+.line{
+    border-bottom: solid 5px yellow;
+    width: 220px;
+    position: relative;
+    top: -129px;
+}
+.circle{
+    width: 600px;
+    height: 600px;
+    border-radius: 300%;
+    background-color: #2d2d39;
+    left: 405px;
+    top: -187px;
+    position: absolute;
+}
+.in{
+    margin-left: 50px;
+    font-size: 15px;
+    color: white;
+}
+.tahapic{
+    height: 622px;
+    position: absolute;
+    top: 13px;
+    left: -28px;
+}
+.span{
+    font-size: 25px;
+    width: 300px;
+    color: white;position: relative;
+    left: 918px;
+    top: -505px;
+
+}
+.services{
+    font-size: 18px;
+}
+.show{
+    font-size: 18px;
+    color: yellow;
+}
+.emoji{
+    color: yellow;
+}
+.meta{
+    display: flex;
+    position: relative;
+    left: 172px;
+    width: 1332px;
+    height: 130px;
+    background-color: #403f4f;
+    box-shadow: 1px -1px 6px black;
+    top: -1363px;
+}
+.slack{
+    
+    background-color: rgb(58, 58, 66);
+    width: 200px;
+    height: 62px;
+    position: relative;
+    top: 1px;
+    left: -22px;
+    font-size: 47px;
+    margin: auto;
+
+    
+}
+.blue{
+    color: rgb(98, 98, 214);
+    position: relative;
+}
+.red{
+    color: red;
+
+}
+.yellow{
+    color: yellow;
+
+}
+.green{
+    color: green;
+}
+.end{
+    height: 1200px;
+    width: 1800px;
+    background-color: #2d2d39;
+    position: relative;
+    top: -95px;
+}
+.first{
+    height: 806px;
+    width: 1800px;
+    background-color: #403f4f;
+    position: relative;
+    top: -50px;
+} 
+.image{
+    height: 53px;
+    position: relative;
+    right: -6px;
+    bottom: -2px;
+}
+.last{
+    position: relative;
+    left: 7px;
+}
+.what{
+    position: relative;
+    left: 198px;
+    top: 193px;
+    font-size: 65px;
+    width: 500px;
+}
+.para{
+    position: relative;
+    left: 206px;
+    top: 195px;
+    font-size: 18px;
+    width: 300px;
+}
+.project{
+    position: relative;
+    left: 210px;
+    top: 270px;
+}
+.comment{
+    position: relative;
+    top: -47px;
+    font-size: 20px;
+    color: white;
+}
+.network{
+    position: relative;
+    left: 431px;
+    top: 55px;
+}
+.year{
+    position: relative;
+    top: -47px;
+    font-size: 20px;
+    color: white;
+}
+.full{
+    color: yellow;
+}
+.pics{
+    position: relative;
+    display: grid;
+    right: -902px;
+    bottom: 517px;
+    align-items: center;
+}
+.front{
+    height: 150px;
+    width: 200px;
+    margin-bottom: 66px;
+}
+.google{
+    background-color: rgb(58, 58, 66);
+    height: 60px;
+    width: 180px;
+    margin: auto;
+}
+
+.linkin{
+    background-color: rgb(58, 58, 66);
+    height: 60px;
+    width: 180px;
+    margin: auto;
+}
+.weta{
+    background-color: rgb(58, 58, 66);
+    height: 60px;
+    width: 180px;
+    margin: auto;
+}
+.design{
+    position: relative;
+    top: -205px;
+    left: -2px;
+}
+
+.develop{
+    position: relative;
+    top: -73px;
+    left: -1px;
+}
+.mobile{
+    position: relative;
+    top: 57px;
+    left: -1px;
+}
+.dollar1{
+    position: relative;
+    top: -212px;
+    color: white;
+}
+.firstline{
+    width: 580px;
+    border-bottom: solid white 1px;
+    position: relative;
+    left: 3px;
+    bottom: 50px;
+}
+.secline{
+    width: 580px;
+    border-bottom: solid white 1px;
+    position: relative;
+    left: 3px;
+    bottom: 50px;
+}
+
+.lastline{
+    width: 580px;
+    border-bottom: solid white 1px;
+    position: relative;
+    left: 3px;
+    bottom: 50px;
+}
+.arrow{
+    position: relative;
+    color: yellow;
+    left: 541px;
+    top: -131px;
+}
+.close{
+    position: relative;
+    left: 120px;
+}
+.fast{
+    position: relative;
+    left: 65px;
+}
+.slow{
+    position: relative;
+    left: 48px;
+}
+.maindiv{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    top: -580px;
+    width: 1739px;
+}
+.box1{
+    background-color: #403f4f;
+    height: 350px;
+    width: 350px;
+}
+.box2{
+    background-color: #403f4f;
+    height: 350px;
+    width: 350px;
+}
+.box3{
+    background-color: #403f4f;
+    height: 350px;
+    width: 350px;
+}   
+.divpro{
+    position: relative;
+    top: -1012px;
+    color: white;
+    left: 1132px;
+}
+
+.dollar2{
+    position: relative;
+    top: -84px;
+   
+}
+.dollar3{
+    position: relative;
+    top: 46px;
+  
+}
+.pc{
+    color: yellow;
+    margin-left: 50px;
+    position: relative;
+    top: 44px;
+    font-size: 20px;
+    background-color: #2d2d39;
+}
+.business{
+    position: relative;
+    top: 172px;
+    left: 38px;
+}
+.busy{
+    position: relative;
+    top: -116px;
+}
